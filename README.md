@@ -29,37 +29,64 @@ Deep Learning, Operations Research
 
 ### Key papers
 
+- paper 1
+- paper 2
+
 ## Lecture 3. Graph Combinatorial Optimization and Intelligence
 
 ### Key papers
+
+- paper 1
+- paper 2
 
 ## Lecture 4. Combinatorial Optimization and Graph Neural Networks
 
 ### Key papers
 
+- paper 1
+- paper 2
+
 ## Lecture 5. Combinatorial Optimization and Game Theorys
 
 ### Key papers
+
+- paper 1
+- paper 2
 
 ## Lecture 6. Semi-Definite Programming
 
 ### Key papers
 
+- paper 1
+- paper 2
+
 ## Lecture 7. Non-Convex Optimization
 
 ### Key papers
+
+- paper 1
+- paper 2
 
 ## Lecture 8. Sparse Linear Programming
 
 ### Key papers
 
+- paper 1
+- paper 2
+
 ## Lecture 9. Mixed-Integer Linear Programs
 
 ### Key papers
 
+- paper 1
+- paper 2
+
 ## Lecture 10. Geometry Learning
 
 ### Key papers
+
+- paper 1
+- paper 2
 
 ##  Contact
 If you have any comments, questions or suggestions about the material, please contact huangxikun@amss.ac.cn
