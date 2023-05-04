@@ -3,7 +3,7 @@
 ## About the Course
 
 The topics and the corresponding material are as follows:
- 1. **Artificial Intelligence for Operation Research (AI4OR): Basics and Overview**  [material](#) [slides](./course_files/lecture_slides/Lecture1_AI4OR.pdf)
+ 1. **Artificial Intelligence for Operation Research (AI4OR): Basics and Overview**  [material](#) [slides](./course_files/lecture_slides/Lecture1.AI4OR.pdf)
  1. **Traveling Salesman Problem**  [material](#) [slides](./course_files/lecture_slides/lecture2.pdf)
  1. **Graph Combinatorial Optimization and Intelligence**  [material](#) [slides](./course_files/lecture_slides/lecture3.pdf)
  1. **Combinatorial Optimization and Graph Neural Networks**  [material](#) [slides](./course_files/lecture_slides/lecture4.pdf)
