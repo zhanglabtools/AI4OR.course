@@ -1,9 +1,9 @@
-# Artificial Intelligence for Operations Research
+# Artificial Intelligence for Operation Research
 
 ## About the Course
 
 The topics and the corresponding material are as follows:
- 1. **Introduction to Intelligence-based Operations Research**  [material](#) [slides](./course_files/lecture_slides/lecture1.pdf)
+ 1. **Artificial Intelligence for Operation Research (AI4OR): Basics and Overview**  [material](#) [slides](./course_files/lecture_slides/Lecture1. AI4OR.pdf)
  1. **Traveling Salesman Problem**  [material](#) [slides](./course_files/lecture_slides/lecture2.pdf)
  1. **Graph Combinatorial Optimization and Intelligence**  [material](#) [slides](./course_files/lecture_slides/lecture3.pdf)
  1. **Combinatorial Optimization and Graph Neural Networks**  [material](#) [slides](./course_files/lecture_slides/lecture4.pdf)
@@ -16,9 +16,9 @@ The topics and the corresponding material are as follows:
 
 ##  Prerequisites
 
-Deep Learning, Operations Research
+Deep Learning, Operation Research
 
-## Lecture 1. Introduction to Intelligence-based Operations Research
+## Lecture 1. Artificial Intelligence for Operation Research (AI4OR): Basics and Overview
 
 ### Key papers
 
