@@ -24,7 +24,25 @@ Deep Learning, Operation Research
 
 ### Key papers
 
-- coming soon
+-  Bresson, X., & Laurent, T. (2021). The transformer network for the traveling salesman problem. 
+arXiv preprint arXiv:2103.03012.
+- Kool, W., Van Hoof, H., & Welling, M. (2018). Attention, learn to solve routing problems!. arXiv
+preprint arXiv:1803.08475.
+- Deudon, M., Cournut, P., Lacoste, A., Adulyasak, Y., & Rousseau, L. M. (2018). Learning heuristics 
+for the tsp by policy gradient. In Integration of Constraint Programming, Artificial Intelligence, and 
+Operations Research: 15th International Conference, CPAIOR 2018.
+- Vinyals, O., Fortunato, M., & Jaitly, N. (2015). Pointer networks. Advances in neural information 
+processing systems, 28.
+- Bahdanau, D., Cho, K., & Bengio, Y. (2014). Neural machine translation by jointly learning to align 
+and translate. arXiv preprint arXiv:1409.0473.
+- Bello, I., Pham, H., Le, Q. V., Norouzi, M., & Bengio, S. (2016). Neural combinatorial optimization 
+with reinforcement learning. arXiv preprint arXiv:1611.09940.
+- Nazari, M., Oroojlooy, A., Snyder, L., & Takác, M. (2018). Reinforcement learning for solving the 
+vehicle routing problem. Advances in neural information processing systems, 31.
+- Khalil, E., Dai, H., Zhang, Y., Dilkina, B., & Song, L. (2017). Learning combinatorial optimization 
+algorithms over graphs. Advances in neural information processing systems, 30.
+- Joshi, C. K., Laurent, T., & Bresson, X. (2019). An efficient graph convolutional network technique 
+for the travelling salesman problem. arXiv preprint arXiv:1906.01227.
 
 ## Sparse Linear Optimization
 
