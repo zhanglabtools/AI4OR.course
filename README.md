@@ -48,13 +48,74 @@ for the travelling salesman problem. arXiv preprint arXiv:1906.01227.
 
 ### Key papers
 
-- coming soon
+- Candes E, Tao T. Decoding by linear programming [J]. IEEE Transactions on Information Theory, 
+2005, 51: 4203-4215.
+- D. L. Donoho, A. Maleki, and A. Montanari, "Message-passing algorithms for compressed sensing," 
+Proceedings of the National Academy of Sciences, vol. 106, no. 45, pp. 18 914–18 919, 2009.
+- Natarajan B K. Sparse approximate solutions to linear systems [J]. SIAM Journal on Computing, 
+1995, 24: 227-234.
+- Donoho D, Huo X. Uncertainty principles and ideal atomic decompositions [J]. IEEE Transactions 
+on Information Theory, 2001, 47: 2845-2862.
+- Mo Q, Li S. New bounds on the restricted isometry constant δ2k [J]. Applied and Computational 
+Harmonic Analysis, 2011, 31(3): 460-468.
+- Zhang Y. Theory of compressive sensing via l1-minimization: a non-RIP analysis and extensions 
+[R]. Rice University, CAAM Technical Report TR08-11, 2008.
+- Mousavi A, Patel A B, Baraniuk R G. A deep learning approach to structured signal 
+recovery[C]//2015 53rd annual allerton conference on communication, control, and computing 
+(Allerton). IEEE, 2015: 1336-1343.
+- Kulkarni, K., Lohit, S., Turaga, P., Kerviche, R., & Ashok, A. (2016). Reconnet: Non-iterative 
+reconstruction of images from compressively sensed measurements. In Proceedings of the IEEE 
+conference on computer vision and pattern recognition (pp. 449-458).
+- Shi W, Jiang F, Liu S, et al. Image compressed sensing using convolutional neural network[J]. IEEE 
+Transactions on Image Processing, 2019, 29: 375-388.
+- Boyd, S., Parikh, N., Chu, E., Peleato, B., & Eckstein, J. (2011). Distributed optimization and 
+statistical learning via the alternating direction method of multipliers. Foundations and Trends® in 
+Machine learning, 3(1), 1-122.
+- Bach, F., Jenatton, R., & Mairal, J. (2011). Optimization with Sparsity-Inducing Penalties 
+(Foundations and Trends(R) in Machine Learning).
+- Kavi, Buckles, & Bhat. (1986). A Formal Definition of Data Flow Graph Models. IEEE Transactions 
+on Computers, C–35(11), 940–948
+- Xiang J, Dong Y, Yang Y. FISTA-net: Learning a fast iterative shrinkage thresholding network for 
+inverse problems in imaging[J]. IEEE Transactions on Medical Imaging, 2021, 40(5): 1329-1339.
+- Liu, J., & Chen, X. (2019, January). ALISTA: Analytic weights are as good as learned weights in 
+LISTA. In International Conference on Learning Representations (ICLR). 
+- Beck A, Teboulle M. A fast iterative shrinkage-thresholding algorithm for linear inverse problems[J]. 
+SIAM journal on imaging sciences, 2009, 2(1): 183-202.
+- Geng, C., Jiang, M., Fang, X., Li, Y., Jin, G., Chen, A., & Liu, F. (2023). HFIST-Net: High-throughput 
+fast iterative shrinkage thresholding network for accelerating MR image reconstruction. Computer 
+Methods and Programs in Biomedicine, 232, 107440.
 
 ## Mixed-Integer Linear Programs
 
 ### Key papers
 
-- coming soon
+- Berthold, T. (2006). Primal heuristics for mixed integer programs (Doctoral dissertation, Zuse 
+Institute Berlin (ZIB)).
+- Salimans, T., Ho, J., Chen, X., Sidor, S., & Sutskever, I. (2017). Evolution strategies as a scalable 
+alternative to reinforcement learning. arXiv preprint arXiv:1703.03864.
+- Huang, Z., Wang, K., Liu, F., Zhen, H. L., Zhang, W., Yuan, M., ... & Wang, J. (2022). Learning to 
+select cuts for efficient mixed-integer programming. Pattern Recognition, 123, 108353.
+- Nair, V., Bartunov, S., Gimeno, F., Von Glehn, I., Lichocki, P., Lobov, I., ... & Zwols, Y. (2020). 
+Solving mixed integer programs using neural networks. arXiv preprint arXiv:2012.13349.
+- Gasse, M., Chételat, D., Ferroni, N., Charlin, L., & Lodi, A. (2019). Exact combinatorial optimization 
+with graph convolutional neural networks. Advances in neural information processing systems, 32.
+- Paulus, M. B., Zarpellon, G., Krause, A., Charlin, L., & Maddison, C. (2022, June). Learning to cut 
+by looking ahead: Cutting plane selection via imitation learning. In International conference on 
+machine learning (pp. 17584-17600). PMLR.
+- Gupta, P., Gasse, M., Khalil, E., Mudigonda, P., Lodi, A., & Bengio, Y. (2020). Hybrid models for 
+learning to branch. Advances in neural information processing systems, 33, 18087-18097.
+- Ding, J. Y., Zhang, C., Shen, L., Li, S., Wang, B., Xu, Y., & Song, L. (2020, April). Accelerating 
+primal solution findings for mixed integer programs based on solution prediction. In Proceedings of 
+the aaai conference on artificial intelligence(Vol. 34, No. 02, pp. 1452-1459).
+- Scavuzzo, L., Chen, F., Chételat, D., Gasse, M., Lodi, A., Yorke-Smith, N., & Aardal, K. (2022). 
+Learning to branch with tree mdps. Advances in Neural Information Processing Systems, 35, 
+18514-18526.
+- Duan, H., Vaezipoor, P., Paulus, M. B., Ruan, Y., & Maddison, C. (2022, June). Augment with care: 
+Contrastive learning for combinatorial problems. In International Conference on Machine 
+Learning (pp. 5627-5642). PMLR.
+- Sutton, R. S., McAllester, D., Singh, S., & Mansour, Y. (1999). Policy gradient methods for 
+reinforcement learning with function approximation. Advances in neural information processing 
+systems, 12.
 
 ## Geometry Learning
 
