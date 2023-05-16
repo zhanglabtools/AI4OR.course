@@ -2,6 +2,8 @@
 
 ## About the Course
 
+This course will introduce the use of artificial intelligence (AI) techniques in operation research (OR). AI is a rapidly growing field with applications in a wide range of areas, including OR. In this course, students will learn about the basic concepts of AI, as well as how AI can be used to solve OR problems.
+
 The topics and the corresponding material are as follows:
  1. **Artificial Intelligence for Operation Research (AI4OR): Basics and Overview**  [material](#) [slides](./course_files/lecture_slides/Lecture1_AI4OR.pdf)
  1. **AI for Traveling Salesman Problem**  [material](#AI-for-Traveling-Salesman-Problem) [slides](./course_files/lecture_slides/Lecture2_Traveling_Salesman_Problem.pdf)
