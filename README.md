@@ -4,7 +4,7 @@
 
 The topics and the corresponding material are as follows:
  1. **Artificial Intelligence for Operation Research (AI4OR): Basics and Overview**  [material](#) [slides](./course_files/lecture_slides/Lecture1_AI4OR.pdf)
- 1. **AI for Traveling Salesman Problem**  [material](#Lecture-2.-AI-for-Traveling-Salesman-Problem) [slides](./course_files/lecture_slides/Lecture2_Traveling_Salesman_Problem.pdf)
+ 1. **AI for Traveling Salesman Problem**  [material](#AI-for-Traveling-Salesman-Problem) [slides](./course_files/lecture_slides/Lecture2_Traveling_Salesman_Problem.pdf)
  1. **Sparse (Linear) Optimization**  [material](#) [slides](./course_files/lecture_slides/Lecture3_Sparse_(Linear)_Optimization.pdf)
  1. **Mixed-Integer Linear Programs**  [material](#) [slides](./course_files/lecture_slides/Lecture4_Mixed-integer_(Linear)_Programs.pdf)
  1. **Geometry Learning** 
@@ -20,7 +20,7 @@ Deep Learning, Operation Research
 
 ## Lecture 1. Artificial Intelligence for Operation Research (AI4OR): Basics and Overview
 
-## Lecture 2. AI for Traveling Salesman Problem
+## AI for Traveling Salesman Problem
 
 ### Key papers
 
