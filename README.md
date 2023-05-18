@@ -9,7 +9,7 @@ The topics and the corresponding material are as follows:
  1. **AI for Traveling Salesman Problem**  [material](#AI-for-Traveling-Salesman-Problem) [slides](./course_files/lecture_slides/Lecture2_Traveling_Salesman_Problem.pdf)
  1. **Sparse (Linear) Optimization**  [material](#Sparse-Linear-Optimization) [slides](./course_files/lecture_slides/Lecture3_Sparse_(Linear)_Optimization.pdf)
  1. **Mixed-Integer Linear Programs**  [material](#Mixed-Integer-Linear-Programs) [slides](./course_files/lecture_slides/Lecture4_Mixed-integer_(Linear)_Programs.pdf)
- 1. **Geometry Learning** 
+ 1. **Geometry Learning** [material](#Geometry-Learning) [slides](./course_files/lecture_slides/Lecture5_Geometric Learning.pdf)
  1. **Semi-Definite Programming** 
  1. **Non-Convex Optimization**
  1. **Graph Combinatorial Optimization and Intelligence**
@@ -54,12 +54,6 @@ for the travelling salesman problem. arXiv preprint arXiv:1906.01227.
 2005, 51: 4203-4215.
 - D. L. Donoho, A. Maleki, and A. Montanari, "Message-passing algorithms for compressed sensing," 
 Proceedings of the National Academy of Sciences, vol. 106, no. 45, pp. 18 914–18 919, 2009.
-- Natarajan B K. Sparse approximate solutions to linear systems [J]. SIAM Journal on Computing, 
-1995, 24: 227-234.
-- Donoho D, Huo X. Uncertainty principles and ideal atomic decompositions [J]. IEEE Transactions 
-on Information Theory, 2001, 47: 2845-2862.
-- Mo Q, Li S. New bounds on the restricted isometry constant δ2k [J]. Applied and Computational 
-Harmonic Analysis, 2011, 31(3): 460-468.
 - Zhang Y. Theory of compressive sensing via l1-minimization: a non-RIP analysis and extensions 
 [R]. Rice University, CAAM Technical Report TR08-11, 2008.
 - Mousavi A, Patel A B, Baraniuk R G. A deep learning approach to structured signal 
@@ -75,8 +69,6 @@ statistical learning via the alternating direction method of multipliers. Founda
 Machine learning, 3(1), 1-122.
 - Bach, F., Jenatton, R., & Mairal, J. (2011). Optimization with Sparsity-Inducing Penalties 
 (Foundations and Trends(R) in Machine Learning).
-- Kavi, Buckles, & Bhat. (1986). A Formal Definition of Data Flow Graph Models. IEEE Transactions 
-on Computers, C–35(11), 940–948
 - Xiang J, Dong Y, Yang Y. FISTA-net: Learning a fast iterative shrinkage thresholding network for 
 inverse problems in imaging[J]. IEEE Transactions on Medical Imaging, 2021, 40(5): 1329-1339.
 - Liu, J., & Chen, X. (2019, January). ALISTA: Analytic weights are as good as learned weights in 
@@ -123,7 +115,43 @@ systems, 12.
 
 ### Key papers
 
-- coming soon
+-  Boscaini, D., Masci, J., Rodolà, E., & Bronstein, M. (2016). Learning shape correspondence with 
+anisotropic convolutional neural networks. Advances in neural information processing systems, 29.
+- Tolstikhin, I., Bousquet, O., Gelly, S., & Schoelkopf, B. (2017). Wasserstein auto-encoders. arXiv 
+preprint arXiv:1711.01558.
+- Gong, F., Nie, Y., & Xu, H. (2022, October). Gromov-Wasserstein multi-modal alignment and 
+clustering. In Proceedings of the 31st ACM International Conference on Information & Knowledge 
+Management (pp. 603-613).
+- Mémoli, F. (2011). Gromov–Wasserstein distances and the metric approach to object 
+matching. Foundations of computational mathematics, 11, 417-487.
+- Ovsjanikov, M., Ben-Chen, M., Solomon, J., Butscher, A., & Guibas, L. (2012). Functional maps: 
+a flexible representation of maps between shapes. ACM Transactions on Graphics (ToG), 31(4), 1-
+11.
+- Bronstein, A. M., Bronstein, M. M., & Kimmel, R. (2006). Generalized multidimensional scaling: a 
+framework for isometry-invariant partial surface matching. Proceedings of the National Academy of 
+Sciences, 103(5), 1168-1172.
+- Sun, J., Ovsjanikov, M., & Guibas, L. (2009, July). A concise and provably informative multi-scale 
+signature based on heat diffusion. In Computer graphics forum (Vol. 28, No. 5, pp. 1383-1392). 
+Oxford, UK: Blackwell Publishing Ltd.
+- Tenenbaum, J. B., Silva, V. D., & Langford, J. C. (2000). A global geometric framework for 
+nonlinear dimensionality reduction. science, 290(5500), 2319-2323.
+- Qi, C. R., Su, H., Mo, K., & Guibas, L. J. (2017). Pointnet: Deep learning on point sets for 3d 
+classification and segmentation. In Proceedings of the IEEE conference on computer vision and 
+pattern recognition (pp. 652-660).
+- Qi, C. R., Yi, L., Su, H., & Guibas, L. J. (2017). Pointnet++: Deep hierarchical feature learning 
+on point sets in a metric space. Advances in neural information processing systems, 30.
+- Sharma, G., Dash, B., RoyChowdhury, A., Gadelha, M., Loizou, M., Cao, L., ... & Kalogerakis, E. 
+(2022, August). PriFit: learning to fit primitives improves few shot point cloud segmentation. 
+In Computer Graphics Forum (Vol. 41, No. 5, pp. 39-50).
+- Li, L., Sung, M., Dubrovina, A., Yi, L., & Guibas, L. J. (2019). Supervised fitting of geometric 
+primitives to 3d point clouds. In Proceedings of the IEEE/CVF Conference on Computer Vision and 
+Pattern Recognition (pp. 2652-2660).
+- Litany, O., Remez, T., Rodola, E., Bronstein, A., & Bronstein, M. (2017). Deep functional maps: 
+Structured prediction for dense shape correspondence. In Proceedings of the IEEE international 
+conference on computer vision (pp. 5659-5667).
+- Halimi, O., Litany, O., Rodola, E., Bronstein, A. M., & Kimmel, R. (2019). Unsupervised learning 
+of dense shape correspondence. In Proceedings of the IEEE/CVF Conference on Computer Vision 
+and Pattern Recognition (pp. 4370-4379).
 
 ## Semi-Definite Programming
 
