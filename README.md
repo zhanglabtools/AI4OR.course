@@ -125,8 +125,7 @@ Management (pp. 603-613).
 - Mémoli, F. (2011). Gromov–Wasserstein distances and the metric approach to object 
 matching. Foundations of computational mathematics, 11, 417-487.
 - Ovsjanikov, M., Ben-Chen, M., Solomon, J., Butscher, A., & Guibas, L. (2012). Functional maps: 
-a flexible representation of maps between shapes. ACM Transactions on Graphics (ToG), 31(4), 1-
-11.
+a flexible representation of maps between shapes. ACM Transactions on Graphics (ToG), 31(4), 1-11.
 - Bronstein, A. M., Bronstein, M. M., & Kimmel, R. (2006). Generalized multidimensional scaling: a 
 framework for isometry-invariant partial surface matching. Proceedings of the National Academy of 
 Sciences, 103(5), 1168-1172.
