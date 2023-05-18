@@ -9,7 +9,7 @@ The topics and the corresponding material are as follows:
  1. **AI for Traveling Salesman Problem**  [material](#AI-for-Traveling-Salesman-Problem) [slides](./course_files/lecture_slides/Lecture2_Traveling_Salesman_Problem.pdf)
  1. **Sparse (Linear) Optimization**  [material](#Sparse-Linear-Optimization) [slides](./course_files/lecture_slides/Lecture3_Sparse_(Linear)_Optimization.pdf)
  1. **Mixed-Integer Linear Programs**  [material](#Mixed-Integer-Linear-Programs) [slides](./course_files/lecture_slides/Lecture4_Mixed-integer_(Linear)_Programs.pdf)
- 1. **Geometry Learning** [material](#Geometry-Learning) [slides](./course_files/lecture_slides/Lecture5_Geometric Learning.pdf)
+ 1. **Geometric Learning** [material](#Geometric-Learning) [slides](./course_files/lecture_slides/Lecture5_Geometric_Learning.pdf)
  1. **Semi-Definite Programming** 
  1. **Non-Convex Optimization**
  1. **Graph Combinatorial Optimization and Intelligence**
@@ -111,7 +111,7 @@ Learning (pp. 5627-5642). PMLR.
 reinforcement learning with function approximation. Advances in neural information processing 
 systems, 12.
 
-## Geometry Learning
+## Geometric Learning
 
 ### Key papers
 
